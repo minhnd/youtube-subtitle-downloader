@@ -1,4 +1,4 @@
-youtube-subtitle-downloader
+Youtube Subtitle Downloader
 ===========================
 
     Youtube Subtitle Downloader downloads subtitles from Youtube videos 
